@@ -1,0 +1,29 @@
+.file {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 10px 5px;
+  border: solid black 1px;
+  border-radius: 1.2rem;
+  width: 150px;
+  height: 180px;
+}
+.imagePreview {
+  display: inline;
+  margin: 10px;
+}
+.imagePreview > img {
+  display: inline;
+}
+.namePreview {
+  display: flex;
+  justify-content: space-between;
+}
+.download {
+  cursor: pointer;
+  transition: ease-in-out 0.4s;
+}
+.download:hover {
+  transform: scale(1.2);
+}

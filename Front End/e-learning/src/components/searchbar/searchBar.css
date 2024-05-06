@@ -1,0 +1,24 @@
+.searchBar {
+  padding: 5px;
+  margin: 40px auto;
+  display: grid;
+  place-items: center;
+  background: none;
+}
+.searchBar > input {
+  width: 80%;
+  margin: 5px auto;
+  border-radius: 1.6rem;
+  text-align: center;
+  line-height: 50px;
+}
+.searchBar > icon {
+  position: absolute;
+  right: 220px;
+  color: red;
+  transition: ease-in-out 0.4s;
+}
+.searchBar > icon:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}

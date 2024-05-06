@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "title": "Math1",
+      "type": "Math",
+      "description": "Les mathématiques sont un domaine vaste et diversifié qui englobe l'étude des nombres, des motifs, des structures et des relations. C'est un langage qui nous permet de décrire le monde qui nous entoure, de résoudre des problèmes et de faire des prédictions.",
+      "liked": false
+    },
+    {
+      "title": "Physique1",
+      "type": "Physique",
+      "description": "La physique est une science fondamentale qui cherche à comprendre la nature et ses lois. Elle s'intéresse à tout ce qui a une masse et une énergie, des particules subatomiques les plus infimes aux vastes galaxies qui peuplent le cosmos.",
+      "liked": false
+    },
+    {
+      "title": "Math2",
+      "type": "Math",
+      "description": "Les mathématiques sont un domaine vaste et diversifié qui englobe l'étude des nombres, des motifs, des structures et des relations. C'est un langage qui nous permet de décrire le monde qui nous entoure, de résoudre des problèmes et de faire des prédictions.",
+      "liked": false
+    },
+    {
+      "title": "Physique2",
+      "type": "Physique",
+      "description": "La physique est une science fondamentale qui cherche à comprendre la nature et ses lois. Elle s'intéresse à tout ce qui a une masse et une énergie, des particules subatomiques les plus infimes aux vastes galaxies qui peuplent le cosmos.",
+      "liked": false
+    },
+    {
+      "title": "Arabe1",
+      "type": "Arabe",
+      "description": "L'arabe est une langue sémitique riche et complexe, parlée par plus de 300 millions de personnes à travers le monde. Elle constitue la langue officielle de 25 pays et joue un rôle important dans la culture et l'histoire de nombreuses régions.",
+      "liked": false
+    },
+    {
+      "title": "Arabe2",
+      "type": "Arabe",
+      "description": "L'arabe est une langue sémitique riche et complexe, parlée par plus de 300 millions de personnes à travers le monde. Elle constitue la langue officielle de 25 pays et joue un rôle important dans la culture et l'histoire de nombreuses régions.",
+      "liked": false
+    },
+    {
+      "title": "Arabe3",
+      "type": "Arabe",
+      "description": "L'arabe est une langue sémitique riche et complexe, parlée par plus de 300 millions de personnes à travers le monde. Elle constitue la langue officielle de 25 pays et joue un rôle important dans la culture et l'histoire de nombreuses régions.",
+      "liked": false
+    },
+    {
+      "title": "Francais1",
+      "type": "Francais",
+      "description": "Le français est une langue romane issue du latin vulgaire parlé dans l'Empire romain. Elle est parlée par plus de 300 millions de personnes à travers le monde, et constitue la langue officielle de 29 pays. Le français possède une longue histoire et une richesse culturelle immense, voici quelques points clés :",
+      "liked": false
+    },
+    {
+      "title": "Francais2",
+      "type": "Francais",
+      "description": "Le français est une langue romane issue du latin vulgaire parlé dans l'Empire romain. Elle est parlée par plus de 300 millions de personnes à travers le monde, et constitue la langue officielle de 29 pays. Le français possède une longue histoire et une richesse culturelle immense, voici quelques points clés :",
+      "liked": false
+    },
+    {
+      "title": "Francais3",
+      "type": "Francais",
+      "description": "Le français est une langue romane issue du latin vulgaire parlé dans l'Empire romain. Elle est parlée par plus de 300 millions de personnes à travers le monde, et constitue la langue officielle de 29 pays. Le français possède une longue histoire et une richesse culturelle immense, voici quelques points clés :",
+      "liked": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+.Appo {
+  margin: 150px auto;
+  display: flex;
+  padding-left: 30px;
+  overflow: hidden;
+  /* background-image: url('5.jpeg'); 
+     background-size: cover; 
+     background-position: center;  */
+}
+.pipipiw {
+  visibility: hidden;
+}
+
+.sidebar {
+  /* background-color: #984949; */
+  background-color: rgba(245, 245, 220, 0.2);
+  width: 200px;
+  height: 400px;
+
+  border: solid rgb(196, 195, 195) 1px;
+}
+.sidebar li.selected {
+  color: #ff0909; /* Change to your desired text color */
+}
+
+.main-content {
+  padding-left: 1px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+.spn {
+  font-size: 20px;
+}
+.hh {
+  color: rgba(0, 0, 0, 0.8);
+}
+.sidebar li {
+  cursor: pointer;
+  margin-left: 10px;
+  /* margin-top: 10px; */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: #051120;
+
+  /* font-weight: bold; */
+}
+
+.department-section {
+  background-color: rgba(245, 245, 220, 0.2);
+  width: 850px;
+
+  border: 1px solid #ccc;
+  padding: 10px;
+  /* margin-top: 20px; */
+  height: 400px;
+}
+.this-title2 {
+  color: gray;
+  width: 900px;
+  padding-top: 50px;
+}
+.spn {
+  color: black;
+}
+#desid {
+  display: flex;
+  font-size: 15px;
+}

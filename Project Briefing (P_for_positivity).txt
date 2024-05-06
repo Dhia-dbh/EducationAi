@@ -1,0 +1,9 @@
+To combat educational inequality and bridge the gap between rural and urban areas, we propose our multifaceted web application, Nejah Education.
+
+The main idea is simple: it's a platform where students and teachers of all levels, from elementary to college, can upload course materials, notes, exercises, and quizzes to benefit the community, especially those with limited access to education and resources. these ressources are rated by readers , that way the best ressources will get to the top and everyone everywhere can benefit from the best .
+
+But Nejah Education goes beyond that. We're aiming to improve the educational process at most stages. While revising documents uploaded by the community, students can highlight phrases or paragraphs they don't understand. Nejah will automatically provide explanations in their preferred language, including local dialects like Darja. A built-in chatbot can further assist with understanding concepts and providing advices along the way.
+
+Finally, considering that understaffed teachers can be overwhelmed by large class sizes, we've incorporated a computer vision function. It captures the classroom and determines the number of focused students at any given time. When the majority loses focus, an alert triggers, notifying the teacher and allowing them to address the issue. This effectively helps teachers keep track of the entire class .
+
+All these features are currently in a prototype stage and have been successfully tested. You can explore them through the presented projects or throught the demos we created in each folder
